@@ -1,0 +1,4 @@
+#Thu Sep 22 04:57:09 MST 2022
+base.0=C\:\\Users\\HP\\Projects\\simple_login_signup\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
